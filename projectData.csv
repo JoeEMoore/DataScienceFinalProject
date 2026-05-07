@@ -1,14 +1,14 @@
 Name,Category,Due,Submitted,Score,OutOf
 MA3,Mini Assignments,Jan 28 11:59pm,,4,5
 DA1,Data Assignments,Feb 1 11:59pm,Feb 1 5:58pm,46,50
-MA4 - Handout,Mini Assignments,Feb 2 11:59pm,,,
+MA4 - Handout,Mini Assignments,Feb 2 11:59pm,,0,5
 MA4,Mini Assignments,Feb 4 11:59pm,Feb 4 10:45am,5,5
 DA2,Data Assignments,Feb 10 11:59pm,Feb 10 5:58pm,72,75
 DA3,Data Assignments,Feb 24 11:59pm,Feb 24 8:23pm,74,75
-DA4,Data Assignments,Mar 19 11:59pm,Mar 19 4:39pm,,75
-MA9,Mini Assignments,Mar 23 10:10am,,,10
-MA10,Mini Assignments,Mar 27 11:59pm,Mar 20 10:58am,,10
-DA5,Data Assignments,Mar 31 11:59pm,,,100
+DA4,Data Assignments,Mar 19 11:59pm,Mar 19 4:39pm,74,75
+MA9,Mini Assignments,Mar 23 10:10am,,10,10
+MA10,Mini Assignments,Mar 27 11:59pm,Mar 20 10:58am,10,10
+DA5,Data Assignments,Mar 31 11:59pm,,100,100
 Final Exam,Final Exam,,,,100
 IQ1,In-class Quizzes,,,8.5,11
 IQ2,In-class Quizzes,,,7,10
@@ -54,9 +54,40 @@ L17 Participation (Individual Submissions),Participation,Mar 17 12:15pm,Mar 17 1
 Midterm Exam Part 1 (Theory - Closed Notes),Midterm Exam,Mar 19 12:15pm,Mar 19 11:16am,46,60
 Midterm Exam Part 2 (Design - Open Notes),Midterm Exam,Mar 19 12:15pm,Mar 19 12:08pm,39,40
 L19 Participation (Group Submissions),Participation,Mar 24 12:15pm,Mar 24 11:11am,2,2
-TDP2a: Low Fidelity Prototype Video (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 22 10:34am,,
+TDP2a: Low Fidelity Prototype Video (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 22 10:34am,100,100
 TDP2a: Team Evaluation (Individual Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 24 11:08am,,
-L20 Participation (Individual Submissions),Participation,Mar 26 12:15pm,Mar 26 11:10am,,2
+L20 Participation (Individual Submissions),Participation,Mar 26 12:15pm,Mar 26 11:10am,2,2
 Bonus Assignment #1,Individual Assignments,Mar 30 11:59pm,Mar 30 1:46pm,,4
 IQ11 - GOMS & KLM,In-Class Quizzes,Mar 31 12:15pm,Mar 31 11:45am,10,10
-L21 Participation (Individual Submissions),Participation,Mar 31 12:15pm,Mar 31 11:40am,,1
+L21 Participation (Individual Submissions),Participation,Mar 31 12:15pm,Mar 31 11:40am,1,1
+TDP2b: Critical Review of Prototype Videos (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 31 11:59pm,Mar 26 12:03pm,100,100
+TDP2b: Team Evaluation (Individual Submission),Low Fidelity Prototype Study (TDP2),Mar 31 11:59pm,Mar 31 12:08pm,,
+IQ12 - Heuristic Evaluation,In-Class Quizzes,Apr 2 11:08am,,0,10
+L22 Participation (Individual Submissions),Participation,Apr 2 12:15pm,,0,1
+L23 Participation (Individual Submission),Participation,Apr 7 12:15pm,Apr 7 12:02pm,4,4
+TDP3: Analytic Evaluation Report (Group Submission),Analytic Evaluation (TDP3),Apr 7 11:59pm,Apr 7 12:07pm,100,100
+TDP3: Team Evaluation (Individual Submission),Analytic Evaluation (TDP3),Apr 7 11:59pm,Apr 7 12:03pm,,
+IQ13 - Usability Testing Intro,In-Class Quizzes,Apr 9 11:08am,Apr 9 11:07am,6,6
+L24 Participation (Individual Submission),Participation,Apr 9 12:15pm,Apr 9 11:21am,1,1
+Individual Assignment #5,Individual Assignments,Apr 9 11:59pm,Apr 9 4:08pm,10,10
+L25 Participation (Individual Submission) Part 1,Participation,Apr 14 11:06am,Apr 14 11:04am,1,1
+L25 Participation (Individual Submission) Part 2,Participation,Apr 14 12:15pm,Apr 14 11:59am,1,1
+IQ14 - Planning and Running a Test,In-Class Quizzes,Apr 16 11:07am,Apr 16 11:03am,10,10
+L26 Participation (Individual Submission),Participation,Apr 16 12:15pm,Apr 16 11:51am,1,1
+IQ15 - Analysis and Reporting,In-Class Quizzes,Apr 21 11:08am,Apr 21 11:03am,8,10
+L27 Participation (Individual Submission),Participation,Apr 21 11:10am,Apr 21 11:06am,1,1
+L28 Participation (Individual Submission),Participation,Apr 23 12:15pm,,0,1
+Bonus Assignment #2,Individual Assignments,Apr 27 11:59pm,Apr 25 4:25pm,,4
+Bonus Assignment #3,Individual Assignments,Apr 27 11:59pm,Apr 27 7:37pm,,4
+TDP4: Team Evaluation (Individual Submission),Usability Study Presentation (TDP4),Apr 27 11:59pm,Apr 30 10:56am,,
+L29 Participation (Group Submissions),Participation,Apr 28 12:15pm,Apr 28 12:11pm,2,2
+DA6,Data Assignments,Apr 12 11:59pm,Apr 12 2:11pm,,75
+DA7,Data Assignments,Apr 26 11:59pm,Apr 26 9:02pm,,100
+IQ9,In-class Quizzes,Apr 27 10:10am,,7.5,10
+DA8/Project,Data Assignments,May 7 11:59pm,,,120
+IQ5,In-class Quizzes,,,5,10
+IQ6,In-class Quizzes,,,8,10
+IQ8,In-class Quizzes,,,8.5,15
+MA11,Mini Assignments,,,10,10
+MA12,Mini Assignments,,,0,10
+MA13,Mini Assignments,,,10,10
