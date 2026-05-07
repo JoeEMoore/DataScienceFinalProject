@@ -16,7 +16,9 @@ from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.metrics import classification_report
 
 
-
+# ─────────────────────────────────────────────
+# DATA LOADING & CLEANING
+# ─────────────────────────────────────────────
 
 def clean_category(row):
     """
@@ -105,7 +107,9 @@ def add_timing_columns(df):
     return df
 
 
-
+# ─────────────────────────────────────────────
+# JOIN WITH CALENDAR TABLE
+# ─────────────────────────────────────────────
 
 def load_calendar(filepath="calendar.csv"):
     """
@@ -129,6 +133,9 @@ def join_with_calendar(df, cal):
     return merged
 
 
+# ─────────────────────────────────────────────
+# EDA — SUMMARY STATISTICS
+# ─────────────────────────────────────────────
 
 def summary_statistics(df):
     """
@@ -142,6 +149,9 @@ def summary_statistics(df):
     return summary
 
 
+# ─────────────────────────────────────────────
+# EDA — VISUALIZATIONS
+# ─────────────────────────────────────────────
 
 def plot_grade_distribution_by_category(df):
     graded = df.dropna(subset=["Score", "OutOf"])
@@ -200,6 +210,10 @@ def plot_avg_grade_weekend_vs_weekday(df):
     plt.show()
 
 
+# ─────────────────────────────────────────────
+# HYPOTHESIS TESTS
+# ─────────────────────────────────────────────
+
 def test_mean_above_80(df):
     """
     One-sample t-test: H0: mean <= 80%, H1: mean > 80%.
@@ -239,6 +253,10 @@ def test_quizzes_vs_non_quizzes(df):
         print("-> Fail to reject H0: No significant difference detected.")
     return t_stat, p_value
 
+
+# ─────────────────────────────────────────────
+# MACHINE LEARNING
+# ─────────────────────────────────────────────
 
 def prepare_ml_data(df, threshold=85, test_size=0.2, random_state=42):
     """

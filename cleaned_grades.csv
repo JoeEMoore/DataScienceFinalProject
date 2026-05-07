@@ -1,93 +1,92 @@
-Name,Category,Due,Submitted,Score,OutOf,CleanCategory,Percent
-MA3,Mini Assignments,Jan 28 11:59pm,,4.0,5.0,small assignments,80.0
-DA1,Data Assignments,Feb 1 11:59pm,Feb 1 5:58pm,46.0,50.0,big assignments,92.0
-MA4 - Handout,Mini Assignments,Feb 2 11:59pm,,0.0,5.0,small assignments,0.0
-MA4,Mini Assignments,Feb 4 11:59pm,Feb 4 10:45am,5.0,5.0,small assignments,100.0
-DA2,Data Assignments,Feb 10 11:59pm,Feb 10 5:58pm,72.0,75.0,big assignments,96.0
-DA3,Data Assignments,Feb 24 11:59pm,Feb 24 8:23pm,74.0,75.0,big assignments,98.66666666666667
-DA4,Data Assignments,Mar 19 11:59pm,Mar 19 4:39pm,74.0,75.0,big assignments,98.66666666666667
-MA9,Mini Assignments,Mar 23 10:10am,,10.0,10.0,small assignments,100.0
-MA10,Mini Assignments,Mar 27 11:59pm,Mar 20 10:58am,10.0,10.0,small assignments,100.0
-DA5,Data Assignments,Mar 31 11:59pm,,100.0,100.0,big assignments,100.0
-Final Exam,Final Exam,,,,100.0,exams/tests,
-IQ1,In-class Quizzes,,,8.5,11.0,quizzes,77.27272727272727
-IQ2,In-class Quizzes,,,7.0,10.0,quizzes,70.0
-IQ3,In-class Quizzes,,,7.5,10.0,quizzes,75.0
-IQ4,In-class Quizzes,,,8.5,10.0,quizzes,85.0
-MA1,Mini Assignments,,,10.0,10.0,small assignments,100.0
-MA2,Mini Assignments,,Jan 22 4:34pm,10.0,10.0,small assignments,100.0
-MA3 - Handout,Mini Assignments,,,5.0,5.0,small assignments,100.0
-MA5,Mini Assignments,,,7.0,10.0,small assignments,70.0
-MA6,Mini Assignments,,,10.0,10.0,small assignments,100.0
-Name,Category,Due,Submitted,,,small assignments,
-01 Free Writing Exercise,Participation,Jan 13 12:15pm,Jan 13 11:07am,1.0,1.0,small assignments,100.0
-02 Participation - Norman Concepts,Participation,Jan 15 12:15pm,Jan 15 12:15pm,1.0,1.0,small assignments,100.0
-03 Participation - Applying Norman Concepts,Participation,Jan 20 12:15pm,Jan 20 12:09pm,1.0,1.0,small assignments,100.0
-Individual Assignment #1,Individual Assignments,Jan 22 11am,Jan 22 11am,6.0,10.0,big assignments,60.0
-IQ1 - Norman Design Concepts,In-Class Quizzes,Jan 22 11:08am,Jan 22 11:04am,5.0,7.0,quizzes,71.42857142857143
-04 Participation - The Seven Stages / Gulfs,Participation,Jan 22 12:15pm,Jan 22 12:14pm,1.0,1.0,small assignments,100.0
-IQ2 - Seven Stages / Gulfs,In-Class Quizzes,Jan 27 11:10am,Jan 27 11:06am,8.0,10.0,quizzes,80.0
-05 Participation - Cognitive Walkthrough & In-Class Design Studio,Participation,Jan 27 12:15pm,Jan 27 12:15pm,2.0,2.0,small assignments,100.0
-IQ3 - Cognitive Walkthrough,In-Class Quizzes,Jan 29 11:10am,Jan 29 11:06am,10.0,10.0,quizzes,100.0
-06 Participation - Human Perception 1,Participation,Jan 29 12:15pm,Jan 29 12:10pm,1.0,1.0,small assignments,100.0
-07 Participation - Human Perception 2,Participation,Feb 3 12:15pm,Feb 3 11:59am,1.0,1.0,small assignments,100.0
-07 Participation 2 - Design Studio,Participation,Feb 3 12:15pm,Feb 3 12:17pm,1.0,1.0,small assignments,100.0
-Individual Assignment #2,Individual Assignments,Feb 3 12:15pm,Feb 4 9:12pm,5.0,10.0,big assignments,50.0
-IQ4 - Human Perception,In-Class Quizzes,Feb 5 11:08am,Feb 5 11:06am,8.5,10.0,quizzes,85.0
-08 Participation - UI/UX Research,Participation,Feb 5 12:15pm,Feb 5 12:15pm,1.0,1.0,small assignments,100.0
-IQ5 - Memory,In-Class Quizzes,Feb 10 11:08am,Feb 10 11:04am,9.0,10.0,quizzes,90.0
-09 Participation - User Centered Design,Participation,Feb 10 12:15pm,Feb 10 12:12pm,1.0,1.0,small assignments,100.0
-10 Participation - Early Data Gathering,Participation,Feb 12 12:15pm,Feb 12 12:03pm,1.0,1.0,small assignments,100.0
-Individual Assignment #3,Individual Assignments,Feb 12 11:59pm,Feb 11 9:22pm,8.0,10.0,big assignments,80.0
-IQ6 - UCD and Early Data Gathering,In-Class Quizzes,Feb 17 11:10am,Feb 17 11:10am,6.5,10.0,quizzes,65.0
-L11 Team technology/topic and core task submissions (Group Submission),Participation,Feb 17 12:15pm,Feb 17 11:59am,1.0,1.0,small assignments,100.0
-IQ7 - Synthesizing Findings (Early Data Gathering),In-Class Quizzes,Feb 26 11:08am,Feb 26 11:04am,10.0,10.0,quizzes,100.0
-L14 Participation (Individual Submissions) - IA4 Studio,Participation,Feb 26 12:15pm,Feb 26 12:12pm,1.0,1.0,small assignments,100.0
-IQ8 - Low Fidelity Prototyping,In-Class Quizzes,Mar 3 11:13am,Mar 3 11:09am,8.5,10.0,quizzes,85.0
-L15 Participation (Individual Submissions),Participation,Mar 3 12:15pm,Mar 3 12:08pm,1.0,1.0,small assignments,100.0
-L16 Participation (Individual Submissions),Participation,Mar 5 11:03am,Mar 5 11:01am,1.0,1.0,small assignments,100.0
-IQ9 - Learning and Decision making,In-Class Quizzes,Mar 5 11:08am,Mar 5 11:05am,10.0,10.0,quizzes,100.0
-TDP1: Team Evaluation (Individual Submission),Early Design Study (TDP1),Mar 5 11:59pm,Mar 5 10:57am,,,big assignments,
-TDP1: Early Data Gathering Report (Group Submission),Early Design Study (TDP1),Mar 5 11:59pm,Mar 5 6:52pm,88.0,100.0,big assignments,88.0
-Individual Assignment #4,Individual Assignments,Mar 16 11:59pm,Mar 16 7:35pm,10.0,10.0,big assignments,100.0
-L17 Participation (Individual Submissions),Participation,Mar 17 12:15pm,Mar 17 11:52am,1.0,1.0,small assignments,100.0
-Midterm Exam Part 1 (Theory - Closed Notes),Midterm Exam,Mar 19 12:15pm,Mar 19 11:16am,46.0,60.0,exams/tests,76.66666666666667
-Midterm Exam Part 2 (Design - Open Notes),Midterm Exam,Mar 19 12:15pm,Mar 19 12:08pm,39.0,40.0,exams/tests,97.5
-L19 Participation (Group Submissions),Participation,Mar 24 12:15pm,Mar 24 11:11am,2.0,2.0,small assignments,100.0
-TDP2a: Low Fidelity Prototype Video (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 22 10:34am,100.0,100.0,big assignments,100.0
-TDP2a: Team Evaluation (Individual Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 24 11:08am,,,big assignments,
-L20 Participation (Individual Submissions),Participation,Mar 26 12:15pm,Mar 26 11:10am,2.0,2.0,small assignments,100.0
-Bonus Assignment #1,Individual Assignments,Mar 30 11:59pm,Mar 30 1:46pm,,4.0,big assignments,
-IQ11 - GOMS & KLM,In-Class Quizzes,Mar 31 12:15pm,Mar 31 11:45am,10.0,10.0,quizzes,100.0
-L21 Participation (Individual Submissions),Participation,Mar 31 12:15pm,Mar 31 11:40am,1.0,1.0,small assignments,100.0
-TDP2b: Critical Review of Prototype Videos (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 31 11:59pm,Mar 26 12:03pm,100.0,100.0,big assignments,100.0
-TDP2b: Team Evaluation (Individual Submission),Low Fidelity Prototype Study (TDP2),Mar 31 11:59pm,Mar 31 12:08pm,,,big assignments,
-IQ12 - Heuristic Evaluation,In-Class Quizzes,Apr 2 11:08am,,0.0,10.0,quizzes,0.0
-L22 Participation (Individual Submissions),Participation,Apr 2 12:15pm,,0.0,1.0,small assignments,0.0
-L23 Participation (Individual Submission),Participation,Apr 7 12:15pm,Apr 7 12:02pm,4.0,4.0,small assignments,100.0
-TDP3: Analytic Evaluation Report (Group Submission),Analytic Evaluation (TDP3),Apr 7 11:59pm,Apr 7 12:07pm,100.0,100.0,big assignments,100.0
-TDP3: Team Evaluation (Individual Submission),Analytic Evaluation (TDP3),Apr 7 11:59pm,Apr 7 12:03pm,,,big assignments,
-IQ13 - Usability Testing Intro,In-Class Quizzes,Apr 9 11:08am,Apr 9 11:07am,6.0,6.0,quizzes,100.0
-L24 Participation (Individual Submission),Participation,Apr 9 12:15pm,Apr 9 11:21am,1.0,1.0,small assignments,100.0
-Individual Assignment #5,Individual Assignments,Apr 9 11:59pm,Apr 9 4:08pm,10.0,10.0,big assignments,100.0
-L25 Participation (Individual Submission) Part 1,Participation,Apr 14 11:06am,Apr 14 11:04am,1.0,1.0,small assignments,100.0
-L25 Participation (Individual Submission) Part 2,Participation,Apr 14 12:15pm,Apr 14 11:59am,1.0,1.0,small assignments,100.0
-IQ14 - Planning and Running a Test,In-Class Quizzes,Apr 16 11:07am,Apr 16 11:03am,10.0,10.0,quizzes,100.0
-L26 Participation (Individual Submission),Participation,Apr 16 12:15pm,Apr 16 11:51am,1.0,1.0,small assignments,100.0
-IQ15 - Analysis and Reporting,In-Class Quizzes,Apr 21 11:08am,Apr 21 11:03am,8.0,10.0,quizzes,80.0
-L27 Participation (Individual Submission),Participation,Apr 21 11:10am,Apr 21 11:06am,1.0,1.0,small assignments,100.0
-L28 Participation (Individual Submission),Participation,Apr 23 12:15pm,,0.0,1.0,small assignments,0.0
-Bonus Assignment #2,Individual Assignments,Apr 27 11:59pm,Apr 25 4:25pm,,4.0,big assignments,
-Bonus Assignment #3,Individual Assignments,Apr 27 11:59pm,Apr 27 7:37pm,,4.0,big assignments,
-TDP4: Team Evaluation (Individual Submission),Usability Study Presentation (TDP4),Apr 27 11:59pm,Apr 30 10:56am,,,big assignments,
-L29 Participation (Group Submissions),Participation,Apr 28 12:15pm,Apr 28 12:11pm,2.0,2.0,small assignments,100.0
-DA6,Data Assignments,Apr 12 11:59pm,Apr 12 2:11pm,,75.0,big assignments,
-DA7,Data Assignments,Apr 26 11:59pm,Apr 26 9:02pm,,100.0,big assignments,
-IQ9,In-class Quizzes,Apr 27 10:10am,,7.5,10.0,quizzes,75.0
-DA8/Project,Data Assignments,May 7 11:59pm,,,120.0,big assignments,
-IQ5,In-class Quizzes,,,5.0,10.0,quizzes,50.0
-IQ6,In-class Quizzes,,,8.0,10.0,quizzes,80.0
-IQ8,In-class Quizzes,,,8.5,15.0,quizzes,56.666666666666664
-MA11,Mini Assignments,,,10.0,10.0,small assignments,100.0
-MA12,Mini Assignments,,,0.0,10.0,small assignments,0.0
-MA13,Mini Assignments,,,10.0,10.0,small assignments,100.0
+Name,Category,Due,Submitted,Score,OutOf,CleanCategory,Percent,DueDate,SubDate,DayOfWeek,DaysEarly,IsWeekend
+MA3,Mini Assignments,Jan 28 11:59pm,,4.0,5.0,small assignments,80.0,2026-01-28 23:59:00,,Wednesday,,0.0
+DA1,Data Assignments,Feb 1 11:59pm,Feb 1 5:58pm,46.0,50.0,big assignments,92.0,2026-02-01 23:59:00,2026-02-01 17:58:00,Sunday,0.0,1.0
+MA4 - Handout,Mini Assignments,Feb 2 11:59pm,,0.0,5.0,small assignments,0.0,2026-02-02 23:59:00,,Monday,,0.0
+MA4,Mini Assignments,Feb 4 11:59pm,Feb 4 10:45am,5.0,5.0,small assignments,100.0,2026-02-04 23:59:00,2026-02-04 10:45:00,Wednesday,0.0,0.0
+DA2,Data Assignments,Feb 10 11:59pm,Feb 10 5:58pm,72.0,75.0,big assignments,96.0,2026-02-10 23:59:00,2026-02-10 17:58:00,Tuesday,0.0,0.0
+DA3,Data Assignments,Feb 24 11:59pm,Feb 24 8:23pm,74.0,75.0,big assignments,98.66666666666667,2026-02-24 23:59:00,2026-02-24 20:23:00,Tuesday,0.0,0.0
+DA4,Data Assignments,Mar 19 11:59pm,Mar 19 4:39pm,74.0,75.0,big assignments,98.66666666666667,2026-03-19 23:59:00,2026-03-19 16:39:00,Thursday,0.0,0.0
+MA9,Mini Assignments,Mar 23 10:10am,,10.0,10.0,small assignments,100.0,2026-03-23 10:10:00,,Monday,,0.0
+MA10,Mini Assignments,Mar 27 11:59pm,Mar 20 10:58am,10.0,10.0,small assignments,100.0,2026-03-27 23:59:00,2026-03-20 10:58:00,Friday,7.0,0.0
+DA5,Data Assignments,Mar 31 11:59pm,,100.0,100.0,big assignments,100.0,2026-03-31 23:59:00,,Tuesday,,0.0
+Final Exam,Final Exam,,,,100.0,exams/tests,,,,,,
+IQ1,In-class Quizzes,,,8.5,11.0,quizzes,77.27272727272727,,,,,
+IQ2,In-class Quizzes,,,7.0,10.0,quizzes,70.0,,,,,
+IQ3,In-class Quizzes,,,7.5,10.0,quizzes,75.0,,,,,
+IQ4,In-class Quizzes,,,8.5,10.0,quizzes,85.0,,,,,
+MA1,Mini Assignments,,,10.0,10.0,small assignments,100.0,,,,,
+MA2,Mini Assignments,,Jan 22 4:34pm,10.0,10.0,small assignments,100.0,,2026-01-22 16:34:00,,,
+MA3 - Handout,Mini Assignments,,,5.0,5.0,small assignments,100.0,,,,,
+MA5,Mini Assignments,,,7.0,10.0,small assignments,70.0,,,,,
+MA6,Mini Assignments,,,10.0,10.0,small assignments,100.0,,,,,
+01 Free Writing Exercise,Participation,Jan 13 12:15pm,Jan 13 11:07am,1.0,1.0,small assignments,100.0,2026-01-13 12:15:00,2026-01-13 11:07:00,Tuesday,0.0,0.0
+02 Participation - Norman Concepts,Participation,Jan 15 12:15pm,Jan 15 12:15pm,1.0,1.0,small assignments,100.0,2026-01-15 12:15:00,2026-01-15 12:15:00,Thursday,0.0,0.0
+03 Participation - Applying Norman Concepts,Participation,Jan 20 12:15pm,Jan 20 12:09pm,1.0,1.0,small assignments,100.0,2026-01-20 12:15:00,2026-01-20 12:09:00,Tuesday,0.0,0.0
+Individual Assignment #1,Individual Assignments,Jan 22 11am,Jan 22 11am,6.0,10.0,big assignments,60.0,2026-01-22 11:00:00,2026-01-22 11:00:00,Thursday,0.0,0.0
+IQ1 - Norman Design Concepts,In-Class Quizzes,Jan 22 11:08am,Jan 22 11:04am,5.0,7.0,quizzes,71.42857142857143,2026-01-22 11:08:00,2026-01-22 11:04:00,Thursday,0.0,0.0
+04 Participation - The Seven Stages / Gulfs,Participation,Jan 22 12:15pm,Jan 22 12:14pm,1.0,1.0,small assignments,100.0,2026-01-22 12:15:00,2026-01-22 12:14:00,Thursday,0.0,0.0
+IQ2 - Seven Stages / Gulfs,In-Class Quizzes,Jan 27 11:10am,Jan 27 11:06am,8.0,10.0,quizzes,80.0,2026-01-27 11:10:00,2026-01-27 11:06:00,Tuesday,0.0,0.0
+05 Participation - Cognitive Walkthrough & In-Class Design Studio,Participation,Jan 27 12:15pm,Jan 27 12:15pm,2.0,2.0,small assignments,100.0,2026-01-27 12:15:00,2026-01-27 12:15:00,Tuesday,0.0,0.0
+IQ3 - Cognitive Walkthrough,In-Class Quizzes,Jan 29 11:10am,Jan 29 11:06am,10.0,10.0,quizzes,100.0,2026-01-29 11:10:00,2026-01-29 11:06:00,Thursday,0.0,0.0
+06 Participation - Human Perception 1,Participation,Jan 29 12:15pm,Jan 29 12:10pm,1.0,1.0,small assignments,100.0,2026-01-29 12:15:00,2026-01-29 12:10:00,Thursday,0.0,0.0
+07 Participation - Human Perception 2,Participation,Feb 3 12:15pm,Feb 3 11:59am,1.0,1.0,small assignments,100.0,2026-02-03 12:15:00,2026-02-03 11:59:00,Tuesday,0.0,0.0
+07 Participation 2 - Design Studio,Participation,Feb 3 12:15pm,Feb 3 12:17pm,1.0,1.0,small assignments,100.0,2026-02-03 12:15:00,2026-02-03 12:17:00,Tuesday,-1.0,0.0
+Individual Assignment #2,Individual Assignments,Feb 3 12:15pm,Feb 4 9:12pm,5.0,10.0,big assignments,50.0,2026-02-03 12:15:00,2026-02-04 21:12:00,Tuesday,-2.0,0.0
+IQ4 - Human Perception,In-Class Quizzes,Feb 5 11:08am,Feb 5 11:06am,8.5,10.0,quizzes,85.0,2026-02-05 11:08:00,2026-02-05 11:06:00,Thursday,0.0,0.0
+08 Participation - UI/UX Research,Participation,Feb 5 12:15pm,Feb 5 12:15pm,1.0,1.0,small assignments,100.0,2026-02-05 12:15:00,2026-02-05 12:15:00,Thursday,0.0,0.0
+IQ5 - Memory,In-Class Quizzes,Feb 10 11:08am,Feb 10 11:04am,9.0,10.0,quizzes,90.0,2026-02-10 11:08:00,2026-02-10 11:04:00,Tuesday,0.0,0.0
+09 Participation - User Centered Design,Participation,Feb 10 12:15pm,Feb 10 12:12pm,1.0,1.0,small assignments,100.0,2026-02-10 12:15:00,2026-02-10 12:12:00,Tuesday,0.0,0.0
+10 Participation - Early Data Gathering,Participation,Feb 12 12:15pm,Feb 12 12:03pm,1.0,1.0,small assignments,100.0,2026-02-12 12:15:00,2026-02-12 12:03:00,Thursday,0.0,0.0
+Individual Assignment #3,Individual Assignments,Feb 12 11:59pm,Feb 11 9:22pm,8.0,10.0,big assignments,80.0,2026-02-12 23:59:00,2026-02-11 21:22:00,Thursday,1.0,0.0
+IQ6 - UCD and Early Data Gathering,In-Class Quizzes,Feb 17 11:10am,Feb 17 11:10am,6.5,10.0,quizzes,65.0,2026-02-17 11:10:00,2026-02-17 11:10:00,Tuesday,0.0,0.0
+L11 Team technology/topic and core task submissions (Group Submission),Participation,Feb 17 12:15pm,Feb 17 11:59am,1.0,1.0,small assignments,100.0,2026-02-17 12:15:00,2026-02-17 11:59:00,Tuesday,0.0,0.0
+IQ7 - Synthesizing Findings (Early Data Gathering),In-Class Quizzes,Feb 26 11:08am,Feb 26 11:04am,10.0,10.0,quizzes,100.0,2026-02-26 11:08:00,2026-02-26 11:04:00,Thursday,0.0,0.0
+L14 Participation (Individual Submissions) - IA4 Studio,Participation,Feb 26 12:15pm,Feb 26 12:12pm,1.0,1.0,small assignments,100.0,2026-02-26 12:15:00,2026-02-26 12:12:00,Thursday,0.0,0.0
+IQ8 - Low Fidelity Prototyping,In-Class Quizzes,Mar 3 11:13am,Mar 3 11:09am,8.5,10.0,quizzes,85.0,2026-03-03 11:13:00,2026-03-03 11:09:00,Tuesday,0.0,0.0
+L15 Participation (Individual Submissions),Participation,Mar 3 12:15pm,Mar 3 12:08pm,1.0,1.0,small assignments,100.0,2026-03-03 12:15:00,2026-03-03 12:08:00,Tuesday,0.0,0.0
+L16 Participation (Individual Submissions),Participation,Mar 5 11:03am,Mar 5 11:01am,1.0,1.0,small assignments,100.0,2026-03-05 11:03:00,2026-03-05 11:01:00,Thursday,0.0,0.0
+IQ9 - Learning and Decision making,In-Class Quizzes,Mar 5 11:08am,Mar 5 11:05am,10.0,10.0,quizzes,100.0,2026-03-05 11:08:00,2026-03-05 11:05:00,Thursday,0.0,0.0
+TDP1: Team Evaluation (Individual Submission),Early Design Study (TDP1),Mar 5 11:59pm,Mar 5 10:57am,,,big assignments,,2026-03-05 23:59:00,2026-03-05 10:57:00,Thursday,0.0,0.0
+TDP1: Early Data Gathering Report (Group Submission),Early Design Study (TDP1),Mar 5 11:59pm,Mar 5 6:52pm,88.0,100.0,big assignments,88.0,2026-03-05 23:59:00,2026-03-05 18:52:00,Thursday,0.0,0.0
+Individual Assignment #4,Individual Assignments,Mar 16 11:59pm,Mar 16 7:35pm,10.0,10.0,big assignments,100.0,2026-03-16 23:59:00,2026-03-16 19:35:00,Monday,0.0,0.0
+L17 Participation (Individual Submissions),Participation,Mar 17 12:15pm,Mar 17 11:52am,1.0,1.0,small assignments,100.0,2026-03-17 12:15:00,2026-03-17 11:52:00,Tuesday,0.0,0.0
+Midterm Exam Part 1 (Theory - Closed Notes),Midterm Exam,Mar 19 12:15pm,Mar 19 11:16am,46.0,60.0,exams/tests,76.66666666666667,2026-03-19 12:15:00,2026-03-19 11:16:00,Thursday,0.0,0.0
+Midterm Exam Part 2 (Design - Open Notes),Midterm Exam,Mar 19 12:15pm,Mar 19 12:08pm,39.0,40.0,exams/tests,97.5,2026-03-19 12:15:00,2026-03-19 12:08:00,Thursday,0.0,0.0
+L19 Participation (Group Submissions),Participation,Mar 24 12:15pm,Mar 24 11:11am,2.0,2.0,small assignments,100.0,2026-03-24 12:15:00,2026-03-24 11:11:00,Tuesday,0.0,0.0
+TDP2a: Low Fidelity Prototype Video (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 22 10:34am,100.0,100.0,big assignments,100.0,2026-03-24 23:59:00,2026-03-22 10:34:00,Tuesday,2.0,0.0
+TDP2a: Team Evaluation (Individual Submission),Low Fidelity Prototype Study (TDP2),Mar 24 11:59pm,Mar 24 11:08am,,,big assignments,,2026-03-24 23:59:00,2026-03-24 11:08:00,Tuesday,0.0,0.0
+L20 Participation (Individual Submissions),Participation,Mar 26 12:15pm,Mar 26 11:10am,2.0,2.0,small assignments,100.0,2026-03-26 12:15:00,2026-03-26 11:10:00,Thursday,0.0,0.0
+Bonus Assignment #1,Individual Assignments,Mar 30 11:59pm,Mar 30 1:46pm,,4.0,big assignments,,2026-03-30 23:59:00,2026-03-30 13:46:00,Monday,0.0,0.0
+IQ11 - GOMS & KLM,In-Class Quizzes,Mar 31 12:15pm,Mar 31 11:45am,10.0,10.0,quizzes,100.0,2026-03-31 12:15:00,2026-03-31 11:45:00,Tuesday,0.0,0.0
+L21 Participation (Individual Submissions),Participation,Mar 31 12:15pm,Mar 31 11:40am,1.0,1.0,small assignments,100.0,2026-03-31 12:15:00,2026-03-31 11:40:00,Tuesday,0.0,0.0
+TDP2b: Critical Review of Prototype Videos (Group Submission),Low Fidelity Prototype Study (TDP2),Mar 31 11:59pm,Mar 26 12:03pm,100.0,100.0,big assignments,100.0,2026-03-31 23:59:00,2026-03-26 12:03:00,Tuesday,5.0,0.0
+TDP2b: Team Evaluation (Individual Submission),Low Fidelity Prototype Study (TDP2),Mar 31 11:59pm,Mar 31 12:08pm,,,big assignments,,2026-03-31 23:59:00,2026-03-31 12:08:00,Tuesday,0.0,0.0
+IQ12 - Heuristic Evaluation,In-Class Quizzes,Apr 2 11:08am,,0.0,10.0,quizzes,0.0,2026-04-02 11:08:00,,Thursday,,0.0
+L22 Participation (Individual Submissions),Participation,Apr 2 12:15pm,,0.0,1.0,small assignments,0.0,2026-04-02 12:15:00,,Thursday,,0.0
+L23 Participation (Individual Submission),Participation,Apr 7 12:15pm,Apr 7 12:02pm,4.0,4.0,small assignments,100.0,2026-04-07 12:15:00,2026-04-07 12:02:00,Tuesday,0.0,0.0
+TDP3: Analytic Evaluation Report (Group Submission),Analytic Evaluation (TDP3),Apr 7 11:59pm,Apr 7 12:07pm,100.0,100.0,big assignments,100.0,2026-04-07 23:59:00,2026-04-07 12:07:00,Tuesday,0.0,0.0
+TDP3: Team Evaluation (Individual Submission),Analytic Evaluation (TDP3),Apr 7 11:59pm,Apr 7 12:03pm,,,big assignments,,2026-04-07 23:59:00,2026-04-07 12:03:00,Tuesday,0.0,0.0
+IQ13 - Usability Testing Intro,In-Class Quizzes,Apr 9 11:08am,Apr 9 11:07am,6.0,6.0,quizzes,100.0,2026-04-09 11:08:00,2026-04-09 11:07:00,Thursday,0.0,0.0
+L24 Participation (Individual Submission),Participation,Apr 9 12:15pm,Apr 9 11:21am,1.0,1.0,small assignments,100.0,2026-04-09 12:15:00,2026-04-09 11:21:00,Thursday,0.0,0.0
+Individual Assignment #5,Individual Assignments,Apr 9 11:59pm,Apr 9 4:08pm,10.0,10.0,big assignments,100.0,2026-04-09 23:59:00,2026-04-09 16:08:00,Thursday,0.0,0.0
+L25 Participation (Individual Submission) Part 1,Participation,Apr 14 11:06am,Apr 14 11:04am,1.0,1.0,small assignments,100.0,2026-04-14 11:06:00,2026-04-14 11:04:00,Tuesday,0.0,0.0
+L25 Participation (Individual Submission) Part 2,Participation,Apr 14 12:15pm,Apr 14 11:59am,1.0,1.0,small assignments,100.0,2026-04-14 12:15:00,2026-04-14 11:59:00,Tuesday,0.0,0.0
+IQ14 - Planning and Running a Test,In-Class Quizzes,Apr 16 11:07am,Apr 16 11:03am,10.0,10.0,quizzes,100.0,2026-04-16 11:07:00,2026-04-16 11:03:00,Thursday,0.0,0.0
+L26 Participation (Individual Submission),Participation,Apr 16 12:15pm,Apr 16 11:51am,1.0,1.0,small assignments,100.0,2026-04-16 12:15:00,2026-04-16 11:51:00,Thursday,0.0,0.0
+IQ15 - Analysis and Reporting,In-Class Quizzes,Apr 21 11:08am,Apr 21 11:03am,8.0,10.0,quizzes,80.0,2026-04-21 11:08:00,2026-04-21 11:03:00,Tuesday,0.0,0.0
+L27 Participation (Individual Submission),Participation,Apr 21 11:10am,Apr 21 11:06am,1.0,1.0,small assignments,100.0,2026-04-21 11:10:00,2026-04-21 11:06:00,Tuesday,0.0,0.0
+L28 Participation (Individual Submission),Participation,Apr 23 12:15pm,,0.0,1.0,small assignments,0.0,2026-04-23 12:15:00,,Thursday,,0.0
+Bonus Assignment #2,Individual Assignments,Apr 27 11:59pm,Apr 25 4:25pm,,4.0,big assignments,,2026-04-27 23:59:00,2026-04-25 16:25:00,Monday,2.0,0.0
+Bonus Assignment #3,Individual Assignments,Apr 27 11:59pm,Apr 27 7:37pm,,4.0,big assignments,,2026-04-27 23:59:00,2026-04-27 19:37:00,Monday,0.0,0.0
+TDP4: Team Evaluation (Individual Submission),Usability Study Presentation (TDP4),Apr 27 11:59pm,Apr 30 10:56am,,,big assignments,,2026-04-27 23:59:00,2026-04-30 10:56:00,Monday,-3.0,0.0
+L29 Participation (Group Submissions),Participation,Apr 28 12:15pm,Apr 28 12:11pm,2.0,2.0,small assignments,100.0,2026-04-28 12:15:00,2026-04-28 12:11:00,Tuesday,0.0,0.0
+DA6,Data Assignments,Apr 12 11:59pm,Apr 12 2:11pm,,75.0,big assignments,,2026-04-12 23:59:00,2026-04-12 14:11:00,Sunday,0.0,1.0
+DA7,Data Assignments,Apr 26 11:59pm,Apr 26 9:02pm,,100.0,big assignments,,2026-04-26 23:59:00,2026-04-26 21:02:00,Sunday,0.0,1.0
+IQ9,In-class Quizzes,Apr 27 10:10am,,7.5,10.0,quizzes,75.0,2026-04-27 10:10:00,,Monday,,0.0
+DA8/Project,Data Assignments,May 7 11:59pm,,,120.0,big assignments,,2026-05-07 23:59:00,,Thursday,,0.0
+IQ5,In-class Quizzes,,,5.0,10.0,quizzes,50.0,,,,,
+IQ6,In-class Quizzes,,,8.0,10.0,quizzes,80.0,,,,,
+IQ8,In-class Quizzes,,,8.5,15.0,quizzes,56.666666666666664,,,,,
+MA11,Mini Assignments,,,10.0,10.0,small assignments,100.0,,,,,
+MA12,Mini Assignments,,,0.0,10.0,small assignments,0.0,,,,,
+MA13,Mini Assignments,,,10.0,10.0,small assignments,100.0,,,,,
